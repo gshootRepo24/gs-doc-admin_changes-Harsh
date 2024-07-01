@@ -1,0 +1,11 @@
+<svg id="File-TMP" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_54276" d="M13.8,2.3H4A1.216,1.216,0,0,0,2.8,3.5V19.6A1.216,1.216,0,0,0,4,20.8H17.9a1.216,1.216,0,0,0,1.2-1.2V8.5" fill="#f0f0f0" stroke="#bbbdbf" stroke-width="1"/>
+  <rect id="Rectangle_18362" width="24" height="24" fill="none"/>
+  <path id="Path_54273" d="M15,8.5a1.216,1.216,0,0,1-1.2-1.2v-5H4A1.216,1.216,0,0,0,2.8,3.5V19.6A1.216,1.216,0,0,0,4,20.8H17.9a1.216,1.216,0,0,0,1.2-1.2V8.5Z" fill="none"/>
+  <path id="Path_54274" d="M14.2,8.2V2.9l4.5,5.3Z" fill="#bbbdbf"/>
+  <path id="Path_54275" d="M14.5,3.8,18,7.9H14.5V3.8m-.7-2V8.5h5.8Z" fill="#bbbdbf"/>
+  <g id="Path_54277">
+    <path id="Path_62923" data-name="Path 62923" d="M19.7,21.6H3.4A1.367,1.367,0,0,1,2,20.2V11.9a1.367,1.367,0,0,1,1.4-1.4H19.7a1.367,1.367,0,0,1,1.4,1.4v8.3A1.367,1.367,0,0,1,19.7,21.6Z" fill="#005cff"/>
+  </g>
+  <text id="TMP" transform="translate(3.117 18.766)" fill="#fff" font-size="8" font-family="Open Sans" font-weight="700"><tspan x="0" y="0">TMP</tspan></text>
+</svg>

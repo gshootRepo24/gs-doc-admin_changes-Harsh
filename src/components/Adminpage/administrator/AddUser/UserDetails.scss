@@ -1,0 +1,51 @@
+.container {
+  max-height: 70vh;
+  overflow-y: auto;
+  scrollbar-width: thin;
+
+  &::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+}
+
+.formSection {
+  margin-bottom: 1.5rem;
+}
+
+.formField {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.switchControl {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.radioGroup {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1rem;
+}
+
+.submitButton {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1.5rem;
+}

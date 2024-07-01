@@ -1,0 +1,91 @@
+/* .mynavbar{ 
+    display: flex;
+    justify-content: space-around;
+    background-color: #f4f7f8;
+    border-bottom: 1px solid gray;
+   
+} */
+/* .userBox{
+    width 
+} */
+/* <style> */
+.css-34t23q-MuiPaper-root {
+    width: 100%;
+    height: 100%;
+}
+.css-11ze7cv {
+    width: 100% !important;
+    height: 100%;
+}
+
+.css-0 {
+    width: 100%;
+    height: 100% !important;
+}
+.left-panel-user{
+    display: flex;
+    justify-content:space-between;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.margin_85{
+    margin-right : .85rem
+
+}
+.css-19kzrtu{
+    /* overflow: scroll;
+    overflow-x: hidden;
+    overflow-y: hidden; */
+    /* height: 200px; */
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    width: 25.2em !important;
+    padding: 1.5px 1px !important;
+    margin-left: 10px !important;
+    margin-right: 50px !important;
+}
+.css-ahj2mt-MuiTypography-root {
+    font-weight: 200 !important;
+    font-size: .8rem !important;
+    line-height: 4 !important;
+    letter-spacing: 0.00938em !important;
+}
+.css-gg4vpm {
+    margin-right: 2rem !important;
+}
+.css-j204z7-MuiFormControlLabel-root .MuiFormControlLabel-label {
+    /* margin-top: 5rem !important; */
+}
+/* .css-1m9pwf3{
+    margin-top: 5rem !important;
+} */
+
+/* .css-1ps6pg7-MuiPaper-root {
+    height: 100% !important;
+} */
+.css-1ps6pg7-MuiPaper-root{
+    height: 100%!important;
+    width: 100% !important;
+}
+
+.css-19kzrtu {
+    height: 100% !important;
+
+}
+/* .MuiPaper-root {
+    height: 100% !important;
+} */
+
+.css-j204z7-MuiFormControlLabel-root .MuiFormControlLabel-label {
+    /* margin-top: 5rem !important; */
+}
+
+.css-7uh7jy {
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
+
+.css-1oqqzyl-MuiContainer-root {
+    padding-left: 4px !important;
+    padding-right: 24px !important;
+}

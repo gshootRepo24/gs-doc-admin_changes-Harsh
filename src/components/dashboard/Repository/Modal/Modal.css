@@ -1,0 +1,13 @@
+.field{
+    width: 600px;
+}
+.sort{
+    border: 1px solid black;
+    border-radius: 2px;
+
+}
+.bar{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

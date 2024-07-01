@@ -1,0 +1,123 @@
+/* #d3e3fd */
+/* #f6f8fc */
+/* #c2e7ff */
+
+
+.main-container{
+   /* border:1px solid black; */
+   height: 350px;
+   width: 250px;
+   background-color:#dee2e6;
+   border-radius: 10px;
+}
+.text{
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 12px;
+    border: 1px solid black;
+    margin-left: 13px;
+    
+    
+}
+.container {
+    display: flex;
+    color: white;
+    }
+.search{
+    border:1px solid gray;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 12px;
+    padding: 2px;
+    background-color:#0a1128;
+}
+.btn{
+    margin: 3px;
+}
+.sidenav {
+    padding-left: 15px;
+    color: black;
+    font-size: 12px;
+    width: 170px;
+    height: 45px;
+    margin-left: 25px;
+    margin-top: 8px;
+}
+
+.col:hover{
+    background-color: #16425b ;
+    color: white;
+    border-radius: 20vh;
+}
+.col{
+    font-size: 14px;
+}
+.col1{
+    margin-top: 10px;
+    padding-left: 30px;
+    color: black;
+    gap: 13px;
+    display: flex;
+    align-items: center;
+    line-height: 5px;
+    font-size:1rem;
+}
+.col2{
+    padding-left: 30px;
+    color: black;
+    gap: 13px;
+    display: flex;
+    align-items: center;
+    line-height: 5px;
+    font-size:1rem;
+}
+.col3{
+    padding-left: 30px;
+    color: black;
+    gap: 13px;
+    display: flex;
+    align-items: center;
+    line-height: 5px;
+    font-size:1rem;
+}
+.col4{
+    padding-left: 30px;
+    color: black;
+    gap: 13px;
+    display: flex;
+    align-items: center;
+    line-height: 5px;
+    font-size:1rem;
+}
+.col5{
+    padding-left: 30px;
+    color: black;
+    gap: 13px;
+    display: flex;
+    align-items: center;
+    line-height: 5px;
+    font-size:1rem;
+}
+.col6{
+    padding-left: 30px;
+    color: black;
+    gap: 13px;
+    display: flex;
+    align-items: center;
+    line-height: 5px;
+    font-size:1rem;
+}
+.col7{
+    padding-left: 30px;
+    color: black;
+    gap: 13px;
+    display: flex;
+    align-items: center;
+    line-height: 5px;
+    font-size:1rem;
+}
+.hr{
+    border-bottom: 1px solid black;
+    
+}

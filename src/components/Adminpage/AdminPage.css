@@ -1,0 +1,36 @@
+.admin-appbar {
+  background-color: #3f51b5;
+}
+
+.admin-container {
+  margin-top: 20px;
+}
+
+.admin-links-grid {
+  display: flex;
+  justify-content: space-between;
+}
+
+.admin-list {
+  padding: 0;
+}
+
+.admin-list-item {
+  padding: 5px 0;
+}
+
+.admin-link {
+  text-decoration: none;
+  color: #3f51b5;
+  font-weight: 500;
+}
+
+.admin-paper {
+  padding: 15px;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
+}

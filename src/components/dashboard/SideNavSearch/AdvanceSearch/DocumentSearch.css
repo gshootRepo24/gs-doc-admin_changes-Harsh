@@ -1,0 +1,94 @@
+.doc-search{
+    /* border: 2px solid black; */
+    width: 100%;
+    height: 150px;
+    background-color:white;
+}
+.type{
+    font-size: 1rem;
+    margin-left: 5px;
+}
+.up{
+    display: flex;
+    align-items: center;
+    gap: 55px;
+
+}
+.icon{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+.cen{
+    display: flex;
+    justify-content: space-between;
+}
+.pin{
+    color: blue;
+    font-size: 0.8rem;
+
+}
+.down{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.input{
+    padding: 8px;
+    width: 400px;
+}
+.btn{
+    padding: 8px;
+    color: blue;
+}
+
+.c-box{
+    background-color: blue;
+}
+.general{
+    width: 100%;
+    /* border: 2px solid black; */
+    height: 350px;
+    margin-top: 15px;
+    background-color: white;
+
+
+}
+  .line {
+    display: inline-block;
+    width: 874px;
+    border-top: 0.5px solid black;
+    margin-left: 5px; 
+    vertical-align: middle; 
+  }
+  .line2 {
+    display: inline-block;
+    width: 819px;
+    border-top: 0.5px solid black;
+    margin-left: 5px; 
+    vertical-align: middle; 
+  }
+.side{
+    margin-left: 16px;
+}
+.fst{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.buton{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 25px;
+    gap: 10px;
+}
+.btn1{
+    padding: 7px;
+    border-radius: 5px;
+}
+.btn2{
+    background-color: #4a4ae3;
+    color: white;
+    border-radius: 5px;
+
+}

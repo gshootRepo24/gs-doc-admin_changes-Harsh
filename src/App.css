@@ -1,0 +1,30 @@
+body {
+    overflow-x: auto;
+  }
+  
+  body::-webkit-scrollbar {
+    height: 8px; /* Adjust height as needed */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: transparent; /* Make the scrollbar thumb invisible */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background-color: transparent; /* Make the scrollbar track invisible */
+  }
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ham{
+    border: 1px solid black;
+    border-radius: 0.5px;
+}
+.structure{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}

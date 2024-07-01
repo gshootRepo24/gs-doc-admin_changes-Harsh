@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="Personalize" transform="translate(-882 -431)">
+    <rect id="Rectangle_18189" data-name="Rectangle 18189" width="38" height="38" rx="2" transform="translate(882 431)" fill="#222"/>
+    <g id="Personalise" transform="translate(889 438)">
+      <g id="Outline">
+        <rect id="Rectangle_23258" data-name="Rectangle 23258" width="24" height="24" fill="none"/>
+      </g>
+      <g id="Icon">
+        <g id="Group_74789" data-name="Group 74789">
+          <rect id="Rectangle_23259" data-name="Rectangle 23259" width="24" height="24" fill="none"/>
+          <path id="Path_62543" data-name="Path 62543" d="M10.328,4.784a2.483,2.483,0,0,0-4.745,0H2v1.5H5.583a2.483,2.483,0,0,0,4.745,0H22v-1.5ZM7.955,6.534a1,1,0,1,1,1-1A1,1,0,0,1,7.955,6.534Z" fill="#fff"/>
+          <path id="Path_62544" data-name="Path 62544" d="M15.2,9.49a2.5,2.5,0,0,0-2.375,1.76H2v1.5H12.836a2.483,2.483,0,0,0,4.738,0H22v-1.5H17.581a2.5,2.5,0,0,0-2.376-1.76Zm0,3.5a1,1,0,1,1,1-1A1,1,0,0,1,15.2,12.99Z" fill="#fff"/>
+          <path id="Path_62545" data-name="Path 62545" d="M6.7,15.946a2.5,2.5,0,0,0-2.379,1.77H2v1.5H4.339a2.483,2.483,0,0,0,4.732,0H22v-1.5H9.084A2.5,2.5,0,0,0,6.7,15.946Zm0,3.5a1,1,0,1,1,1-1A1,1,0,0,1,6.7,19.446Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

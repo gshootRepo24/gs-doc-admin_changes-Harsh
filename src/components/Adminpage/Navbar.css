@@ -1,0 +1,11 @@
+.navbar {
+    background-color: #3f51b5; /* Customize the color as needed */
+  }
+  
+  .navbar-title {
+    flex-grow: 1;
+    color: white; /* Ensure the text color contrasts well with the background */
+  }
+  .css-3zk3kx-MuiContainer-root{
+    margin: 0px !important;
+  }

@@ -1,0 +1,26 @@
+.sidebar {
+    width: 250px;
+    background-color: #fff;
+        border-right: 1px solid #ddd;
+  }
+  
+  /* .sidebar-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+  }
+   */
+  .logo {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .custom-icon {
+    width: 24px; /* Adjust size as needed */
+    height: 24px; /* Adjust size as needed */
+    fill: currentColor; /* Ensure the icon color matches the text */
+  }
+  
+
+  

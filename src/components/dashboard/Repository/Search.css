@@ -1,0 +1,123 @@
+/* #d3e3fd */
+/* #f6f8fc */
+/* #c2e7ff */
+
+.main-container{
+   /* border:1px solid black; */
+   height: 630px;
+   width: 250px;
+   background-color:rgb(255, 255, 255);
+   
+   
+}
+.text{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10vh;
+    margin: 5px;
+    border: 1px solid black;
+    
+    
+}
+.container {
+    display: flex;
+    color: white;
+    }
+.search{
+    border:1px solid gray;
+    border-radius: 40%;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    
+    padding: 4px;
+    background-color:silver;
+}
+.btn{
+    margin: 2px;
+}
+.sidenav {
+    padding-left: 20px;
+    color: black;
+    font-size: 14px;
+    border: 1px solid black;
+    width: 200px;
+    border-radius: 50vh;
+    background-color: #d3e3fd;
+    height: 63px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.col:hover{
+    background-color: #c2e7ff ;
+    border-radius: 20vh;
+}
+.col{
+    font-size: 14px;
+}
+.col1{
+    padding-left: 30px;
+    color: black;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    line-height: 5px;
+    font-size:14px;
+}
+.col2{
+    padding-left: 30px;
+    color: black;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    line-height: 5px;
+    font-size:14px;
+}
+.col3{
+    padding-left: 30px;
+    color: black;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    line-height: 5px;
+    font-size:14px;
+}
+.col4{
+    padding-left: 30px;
+    color: black;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    line-height: 5px;
+    font-size:14px;
+}
+.col5{
+    padding-left: 30px;
+    color: black;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    line-height: 5px;
+    font-size:14px;
+}
+.col6{
+    padding-left: 30px;
+    color: black;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    line-height: 5px;
+    font-size:14px;
+}
+.col7{
+    padding-left: 30px;
+    color: black;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    line-height: 5px;
+    font-size:14px;
+}
+*{
+    background-color: #22223b;
+}
